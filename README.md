@@ -1,7 +1,6 @@
 # Hello, I'm George
-<a href="[https://linkedin.com](https://www.linkedin.com/in/george-hall-iv/)">
 
-[Brief Introduction]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/george-hall-iv/)
 
 I'm a Network Security Analyst/Blue Team Engineer. My interests include Cybersecurity, Privacy, Blue Teaming/Defense, and Penetration Testing. Outside of Cybersecurity, I love playing video games, Magic The Gathering, and the gym.
 
