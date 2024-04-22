@@ -49,3 +49,7 @@ This GitHub page aims to help others with their Cybersecurity journey by documen
 ## Projects
 - <a href="https://github.com/georgethecyberguy/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
+
+## Walkthroughs
+- <a href="https://github.com/georgethecyberguy/HTB-CDSA/tree/main">HTB-CDSA</a>
+- TryHackMe
