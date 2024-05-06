@@ -31,7 +31,6 @@ This GitHub page aims to help others with their Cybersecurity journey by documen
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -51,5 +50,5 @@ This GitHub page aims to help others with their Cybersecurity journey by documen
 - SOC Automation Project
 
 ## Walkthroughs
-- <a href="https://github.com/georgethecyberguy/HTB-CDSA/tree/main">HTB-CDSA</a>
+- <a href="https://github.com/georgethecyberguy/HTB-CDSA/tree/main">Blue Teaming</a>
 - TryHackMe
