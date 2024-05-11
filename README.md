@@ -50,5 +50,6 @@ This GitHub page aims to help others with their Cybersecurity journey by documen
 - SOC Automation Project
 
 ## Walkthroughs
+- <a href="https://github.com/georgethecyberguy/Security-Fundamentals/tree/main">Security Fundamentals</a>
 - <a href="https://github.com/georgethecyberguy/HTB-CDSA/tree/main">Blue Teaming</a>
 - TryHackMe
